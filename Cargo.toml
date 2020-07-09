@@ -3,7 +3,11 @@ name = "block_device"
 version = "0.1.0"
 authors = ["Spxg <itsme@spxg.me>"]
 edition = "2018"
+description = "BlockDevice trait"
+keywords = ["BlockDevice"]
+categories = ["embedded", "no-std"]
+repository = "https://github.com/play-stm32/block_device"
+readme = "README.md"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-package.publish = false
